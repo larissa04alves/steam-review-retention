@@ -1,0 +1,14 @@
+# ambiente
+.venv/
+__pycache__/
+.claude/
+
+# jupyter
+.ipynb_checkpoints/
+
+# dados brutos da coleta (151 MB, regenerados por gerar_amostra_api.ipynb)
+raw/
+
+# artefatos da entrega
+*.pdf
+*.zip
