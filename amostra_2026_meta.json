@@ -1,9 +1,0 @@
-{
-  "data_coleta": "2026-09-14",
-  "data_corte": "2026-01-01",
-  "seed": 42,
-  "n_jogos": 30,
-  "n_reviews": 150000,
-  "min_en": 10000,
-  "max_en": 60000
-}
